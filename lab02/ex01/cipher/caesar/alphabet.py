@@ -1,2 +1,2 @@
-import string
-ALPHABET = list(string.ascii_uppercase) 
+from string import ascii_uppercase
+ALPHABET = list(ascii_uppercase)
